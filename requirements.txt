@@ -6,7 +6,7 @@ certifi==2019.6.16
 cffi==1.12.3
 chardet==3.0.4
 Click==7.0
-cryptography==2.7
+cryptography==3.2
 dtool-azure==0.5.0
 -e git+git@git.nbi.ac.uk:hartleym/dtool-utils.git@7d7470062f5a8835360f45c488316b9daca37ef0#egg=dtool_utils
 dtoolcore==3.12.0
