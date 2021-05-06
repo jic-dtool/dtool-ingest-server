@@ -11,7 +11,7 @@ dtool-azure==0.5.0
 -e git+git@git.nbi.ac.uk:hartleym/dtool-utils.git@7d7470062f5a8835360f45c488316b9daca37ef0#egg=dtool_utils
 dtoolcore==3.12.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 future==0.17.1
 idna==2.8
 itsdangerous==1.1.0
